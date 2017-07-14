@@ -1,5 +1,9 @@
-name = "Joe"
-feet= 6
-inches= 2
+food={"vegetables":["carrots","kale","cucumber","tomato"],"desserts":["cake","ice cream", "donut"]}
 
-print("My Name is <any name>. My Height is : <any height> feet and inches long")
+cars={"sports":{"Volkswagon":"Porsche","Dodge":"Viper","Chevy":"Corvette"},"classic":{"Mercedes-Benz":"300SL","Toyota":"2000GT","Lincoln":"Continental"}}
+
+
+print("The vegetables are:")
+print("The deserts are:")
+print("The sports cars are:")
+print("The classic cars are:")
